@@ -1,0 +1,28 @@
+body{
+  background-color: grey;
+  font-family: sans-serif;
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+  margin-top: 70px;
+}
+
+p{
+  color: white;
+  font-size: 40px;
+  margin-top: 40px
+}
+
+.bilde{
+  width: 200px;
+  border-radius: 70%;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
